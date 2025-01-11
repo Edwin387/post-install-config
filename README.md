@@ -149,4 +149,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Conclusion</h2>
 
-By completing the post configuration steps, you have successfully customized osTicket to suit your organizations's requirements. You are now ready to start using osTicket to manage and resolve customer issues efficiently. 
+By completing the post-installation configuration steps, you have successfully customized osTicket to suit your organizations's requirements. You are now ready to start using osTicket to manage and resolve customer issues efficiently. 
