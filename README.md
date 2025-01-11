@@ -24,7 +24,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure user settings to allow or restrict ticket creation.
 - Add Agents (workers) and Users (customers).
 - Set up Service Level Agreements (SLAs) for ticket response times.
-- Create Help Topics for users to categorize their tickets.f
+- Create Help Topics for users to categorize their tickets.
 
 <h2>Configuration Steps</h2>
 
