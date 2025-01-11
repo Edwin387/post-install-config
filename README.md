@@ -35,9 +35,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
   <h3>2.) Configure Roles</h3>
 
-  -Navigate to **Admin Panel -> Agents -> Roles**.
-  -Add a new role called **Supreme Admin**.
-    -Define permissions for agents based on the role they will have. In this lab, we will give permissions for the Tickets, Tasks, and Knowledgebase sections.
+  - Navigate to **Admin Panel -> Agents -> Roles**.
+
+   - Add a new role called **Supreme Admin**.
+
+   - Define permissions for agents based on the role they will have. In this lab, we will give permissions for the Tickets, Tasks, and Knowledgebase sections.
 
 <p>  
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
