@@ -19,7 +19,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Acknowledge the difference between the Agent Panel and Admin Panel.
 - Configure Roles to define permissions for agents. 
-- Set up Departments to group tickets by areas of responsibility
+- Set up Departments to group tickets by areas of responsibility.
 - Create Teams to pull agents from multiple departments.
 - Configure user settings to allow or restrict ticket creation.
 - Add Agents (workers) and Users (customers).
