@@ -41,13 +41,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
    - Define permissions for agents based on the role they will have. In this lab, we will give permissions for the Tickets, Tasks, and Knowledgebase sections.
 
-<p>  
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2022.PNG?raw=true)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2023.PNG?raw=true)
+
 
 <h3>3.) Configure Departments</h3>
 
@@ -55,19 +52,17 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Add a new department called **SysAdmins**.
 - Use departments to control ticket visibility and assign areas of responsibility (e.g., Help Desk, SysAdmins, Networking).
 
-<p>
+![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2024.PNG?raw=true)
 
-</p>
-<br />
+
+
 <h3>4.) Configure Teams</h3>
 
 - Navigate to **Admin Panel -> Agents -> Teams**.
 - Create a new team called **Online Banking**.
  - Pull agents from different departments to form specialized teams.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2025.PNG?raw=true)
 
 <h3>5.) Allow Anyone to Create Tickets</h3>
 
@@ -75,9 +70,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Uncheck **Require registration and login to create tickets** to enforce ticket creation by anyone.
 -Enable **Public - Anyone can register** to disable requiring users to register and log in before creating tickets. 
 
-<p>
-</p>
-<br />
+![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2026.PNG?raw=true)
 
 <h3>6.) Configure Agents</h3>
 
@@ -86,9 +79,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - **Jane**: Assigned to the **SysAdmins** department.
 - **John**: Assigned to the **Support** department.
 
-<p>
-  
-</p>
+![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2027.PNG?raw=true)
 
 <p>
   
