@@ -91,8 +91,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Navigate to **Agent Panel -> Users -> Add New**.
 - Add users with the following details:
-- **Karen**
-- **Ken**
+- **Ashley**
+- **Kevin**
 
 ![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2040.PNG?raw=true)
 
