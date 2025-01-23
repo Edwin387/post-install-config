@@ -81,17 +81,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 ![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2027.PNG?raw=true)
 
-<p>
-  
-</p>
+![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2037.PNG?raw=true)
 
-<p>
-  
-</p>
+![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2038.PNG?raw=true)
 
-<p>
-  
-</p>
+![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2039.PNG?raw=true)
 
 <h3>7.) Configure Users</h3>
 
@@ -100,9 +94,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - **Karen**
 - **Ken**
 
-<p>
-  
-</p>
+![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2040.PNG?raw=true)
 
 <h3>8.) Configure SLA (Service Level Agreements)</h3>
 
@@ -112,17 +104,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 - **Sev-B**: Grace Period = 4 hours, Schedule = 24/7.
 - **Sev-C**: Grace Period = 8 hours, Schedule = Business Hours.
 
-<p>
-    
-</p>
+![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2041.PNG?raw=true)
 
-<p>
-  
-</p>
+![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2042.PNG?raw=true)
 
-<p>
-  
-</p>
+![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2043.PNG?raw=true)
 
 <h3>9.) Configure Help Topics</h3>
 
@@ -134,9 +120,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - **Password Reset**
 - **Other**
 
-<p>
-  
-</p>
+![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2044.PNG?raw=true)
 
 <h2>Conclusion</h2>
 
