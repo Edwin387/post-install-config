@@ -52,7 +52,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Add a new department called **SysAdmins**.
 - Use departments to control ticket visibility and assign areas of responsibility (e.g., Help Desk, SysAdmins, Networking).
 
-![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2024.PNG?raw=true)
+![image](https://github.com/Edwin387/post-install-config/blob/main/Shot%2059.PNG?raw=true)
 
 
 
@@ -62,7 +62,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Create a new team called **Online Banking**.
  - Pull agents from different departments to form specialized teams.
 
-![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2025.PNG?raw=true)
+![image](https://github.com/Edwin387/post-install-config/blob/main/Shot%2060.PNG?raw=true)
 
 <h3>5.) Allow Anyone to Create Tickets</h3>
 
