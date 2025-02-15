@@ -68,7 +68,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Navigate to **Admin Panel -> Settings -> User Settings**.
 - Uncheck **Require registration and login to create tickets** to enforce ticket creation by anyone.
--Enable **Public - Anyone can register** to disable requiring users to register and log in before creating tickets. 
+- Enable **Public - Anyone can register** to disable requiring users to register and log in before creating tickets. 
 
 ![image](https://github.com/Edwin387/post-install-config/blob/main/shot%2026.PNG?raw=true)
 
